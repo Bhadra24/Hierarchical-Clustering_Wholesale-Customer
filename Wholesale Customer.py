@@ -44,26 +44,3 @@ cluster.fit_predict(data_scaled)
 # Visualising the clusters
 plt.figure(figsize=(10, 7))  
 plt.scatter(data_scaled['Milk'], data_scaled['Grocery'], c=cluster.labels_) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
