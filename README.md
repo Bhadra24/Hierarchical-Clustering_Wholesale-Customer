@@ -8,6 +8,7 @@ Hierarchical Clustering:
 Hierarchical clustering is a method of cluster analysis, which seeks to build a hierarchy of clusters. Hierarchical clustering came before K-Means clustering. A diagram called a dendrogram (A tree diagram that statistics the sequence of merge or splits)
 
 What are the different methods of hierarchical clustering?
+
 •Agglomerative – Also called bottom-up approach. Each observation starts in its own cluster and pairs of clusters are merged as one moves up the hierarchy.
 •Divisive – Also called the top-down approach. All observations start in one cluster, and splits are performed recursively as one moves down the hierarchy
 
