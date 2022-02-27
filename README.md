@@ -1,7 +1,9 @@
 # Hierarchical-Clustering_Wholesale-Customer
 Clustering:
 Clustering is the method of dividing objects into sets that are similar, and dissimilar to the objects belonging to another set. There are two different types of clustering, each divisible into two subsets
-•Hierarchical clustering: 1) Agglomerative 2) Divisive 
+
+•Hierarchical clustering: 1) Agglomerative 2) Divisive 	
+
 •Partial clustering: 1) K-means 2) Fuzzy c-means
 
 Hierarchical Clustering: 
@@ -18,5 +20,7 @@ Steps to Perform Hierarchical Clustering:
 1)Compute the proximity matrix
 
 2)Let each data point be a cluster
+
 3)Repeat Step2: Combine the 2 closest clusters ( by calculating the distance between these clusters) and accordingly update the proximity matrix.
+
 4)Until only a Singular cluster remains.
