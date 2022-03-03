@@ -53,22 +53,3 @@ plt.scatter(data[:,0], data[:,1], c=cluster.labels_, cmap='rainbow')
 # The highest numbers of customers belong to this category. Companies can also target these customers given the fact that they are
 # in huge numbers, etc.
 # =============================================================================
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
